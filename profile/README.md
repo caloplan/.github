@@ -128,9 +128,4 @@ pnpm dev               # http://localhost:5173
 | 数据  | SQLite（开发默认）、localStorage 缓存                            |
 
 ## 其他
-
-
-
-* 所有仓库均为私有仓库（Private），代码不对外公开。
-
 * 开发 / 部署配置通过 `.env` 注入（不入库），模板见各仓库 `.env.example`。
